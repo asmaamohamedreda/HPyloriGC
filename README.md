@@ -1,4 +1,4 @@
-# Integrative transcriptomic analysis of Helicobacter pylori-associated gastric cancer predicts hub genes as potential therapeutic biomarkers
+# Multi-omics analysis of Helicobacter pylori–associated gastric cancer identifies hub genes as a novel therapeutic biomarker
 
 ![CoverPhoto](Logo/CoverPhoto.png)
 
