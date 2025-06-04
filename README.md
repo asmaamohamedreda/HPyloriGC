@@ -2,6 +2,16 @@
 
 ![CoverPhoto](Logo/CoverPhoto.png)
 
+
+## Authors
+Sara H. Mohamed, Mohamed Hamed, Hussain A. Alamoudi, Zayd Jastaniah, Fadhl M. Alakwaa\*, Asmaa Reda\*
+
+\*Corresponding authors
+
+## Published Paper
+[Read the article in *Briefings in Bioinformatics*](https://academic.oup.com/bib/article/26/3/bbaf241/8153689)
+
+
 ## About This Repository
 
 Helicobacter pylori (H. pylori) infection is one of the most common gastric pathogens; however, the molecular mechanisms driving its progression to gastric cancer remain poorly understood. This study aimed to identify key transcriptomic drivers and therapeutic targets of H. pylori-associated gastric cancer through integrative transcriptomic analysis.
@@ -21,4 +31,4 @@ This repository is licensed under the MIT License. See the `LICENSE` file for de
 
 ## Contact
 
-For questions or collaborations, contact: **Asma Reda** – areda@zewailcity.edu.eg
+For questions or collaborations, contact: **Dr.Asma Reda** – areda@zewailcity.edu.eg
